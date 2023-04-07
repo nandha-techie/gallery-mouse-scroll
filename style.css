@@ -77,7 +77,7 @@ body{
         max-width: 960px;
     }
     .gallery div{
-        grid-template-columns: auto auto;
+        grid-template-columns: auto auto auto;
     }
 }
 
